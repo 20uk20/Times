@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ich bin ein Berliner"
+title:  "我是柏林人"
 author: John F. Kennedy
 date:   1963-06-26 20:20:35 +0200
 image: https://66.media.tumblr.com/b14a66ee6e7f14573b6a64b6a29351ae/tumblr_moremeFvZ81qjih96o1_400.gif
